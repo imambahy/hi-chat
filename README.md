@@ -78,9 +78,6 @@ Pastikan Anda sudah menginstal:
    http://localhost:8000
    ```
 
-## Screenshot
-(Tambahkan tangkapan layar antarmuka aplikasi di sini jika diperlukan)
-
 ## Lisensi
 Proyek ini adalah bagian dari pembelajaran pribadi dan tidak menggunakan lisensi khusus.
 
